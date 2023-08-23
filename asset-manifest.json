@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnuragSingh457/ReactProject/static/css/main.073c9b0a.css",
+    "main.js": "/AnuragSingh457/ReactProject/static/js/main.31f206f2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AnuragSingh457/ReactProject/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AnuragSingh457/ReactProject/index.html",
+    "main.073c9b0a.css.map": "/AnuragSingh457/ReactProject/static/css/main.073c9b0a.css.map",
+    "main.31f206f2.js.map": "/AnuragSingh457/ReactProject/static/js/main.31f206f2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AnuragSingh457/ReactProject/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.31f206f2.js"
+  ]
+}
