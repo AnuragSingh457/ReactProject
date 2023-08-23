@@ -1,6 +1,6 @@
 import './App.css';
 import  React,{ useState } from 'react';
-import Navbar from  './components/navbar';
+import Navbar from  './components/Navbar';
 import Textarea from './components/textarea';
 import About from './components/About';
 import {
